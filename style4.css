@@ -1,0 +1,97 @@
+body {
+	background-image: url("http://hdimages.org/wp-content/uploads/2016/12/dolphin-images-HD6.jpg");
+}
+#mainheader {
+	
+	
+	color: orange;
+		text-align: center;
+			font-size: 100px;
+				font-family: Helvetica;
+					font-style: italic
+}
+#whead {
+	
+	color: black;
+		text-align: center;
+			font-size: 40px;
+}
+
+#wp {
+	
+	color: black;
+		text-align: center;
+				font-size: 35px;
+				font-weight: 200px;
+					border: 3px solid orange;
+						border-radius: 5px;
+						
+}
+
+.btn {
+			position: absolute;
+				right: 200px;
+				top: 0px;
+				z-index: 1;
+					color: white;
+					font-family: Helvetica;
+					font-size: 15px;
+					border-style: solid;
+					border-width: 10px;
+					border-color: #093571;
+					background-color: #093571
+					
+}
+		
+	.btn2 {
+			position: absolute;
+				right: 150px;
+				top: 0px;
+				z-index: 1;
+					color: gold;
+					font-family: Helvetica;
+					font-size: 15px;
+					border-style: solid;
+					border-width: 10px;
+					border-color: #093571;
+					background-color: #093571
+					
+	}
+
+	.btn3 {
+			position: absolute;
+				right: 100px;
+				top: 0px;
+				z-index: 1;
+					color: white;
+					font-family: Helvetica;
+					font-size: 15px;
+					border-style: solid;
+					border-width: 10px;
+					border-color: #093571;
+					background-color: #093571
+					
+					
+	}
+	.btn4 {
+			position: absolute;
+				right: 50px;
+				top: 0px;
+				z-index: 1;
+				color: white;
+				font-family: Helvetica;
+				font-size: 15px;
+				border-style: solid;
+				border-width: 10px;
+				border-color: #093571;
+				background-color: #093571	
+					
+					
+					
+					
+					
+					
+					
+					
+					
+	}	

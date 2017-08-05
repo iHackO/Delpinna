@@ -1,0 +1,165 @@
+#mainheader {
+	
+	
+	color: aqua;
+		text-align: center;
+			font-size: 100px;
+				font-family: Helvetica;
+					font-style: italic;
+}
+#slogan {
+	
+	color: white;
+		text-align: center;
+			font-size: 40px;
+}	
+#mainp {
+
+	color: white;
+		text-align: center;
+			font-size: 50px;
+				font-weight: 200px;
+					border: 3px solid aqua;
+						border-radius: 5px;
+}
+
+body {
+		
+	background-image: url("http://bestanimations.com/Animals/Mammals/Dolphins/dolphin/dolphin-animated-gif-16.gif");
+		background-size: 100% 100%
+}
+
+			
+	.btn {
+			position: absolute;
+				right: 200px;
+				top: 0px;
+				z-index: 1;
+					color: white;
+				font-family: Helvetica;
+					font-size: 15px;
+					border-style: solid;
+					border-width: 10px;
+					border-color: #093571;
+						background-color: #093571
+					
+}
+		
+	.btn2 {
+			position: absolute;
+				right: 150px;
+				top: 0px;
+				z-index: 1;
+					color: gold;
+				font-family: Helvetica;
+					font-size: 15px;
+					border-style: solid;
+					border-width: 10px;
+					border-color: #093571;
+					background-color: #093571
+	}
+
+	.btn3 {
+			position: absolute;
+				right: 100px;
+				top: 0px;
+				z-index: 1;
+					color: white;
+				font-family: Helvetica;
+					font-size: 15px;
+					border-style: solid;
+					border-width: 10px;
+					border-color: #093571;
+					background-color: #093571
+	}
+	.btn4 {
+			position: absolute;
+				right: 50px;
+				top: 0px;
+				z-index: 1;
+				color: white;
+									font-family: Helvetica;
+					font-size: 15px;
+					border-style: solid;
+					border-width: 10px;
+					border-color: #093571;
+					background-color: #093571
+	}	
+		
+	.btn5 {
+			position: absolute;
+				right: 650px;
+					bottom: 50px;
+						font-family: Helvetica;
+							font-size: 30px;
+								color: black;
+									background-color: aqua;
+										border-width: 5px;
+											border-style: solid;
+												border-color: white;
+													border-radius: 5px;
+										
+		  }
+			
+			
+			
+			
+			
+			
+			
+
+
+
+
+
+
+#foot {
+		position: absolute;
+			right: 500px;
+			bottom: 0px;
+
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
